@@ -1,4 +1,4 @@
-say_hello = #{Ruby Programmer}
+say_hello = "Ruby Programmer"
 
 def say_hello
   puts "Hello " + say_hello + "!"
